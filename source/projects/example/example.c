@@ -3,6 +3,7 @@
 
 #include "ext.h"         // standard Max include, always required
 #include "ext_obex.h"    // required for new style Max object
+#include "../include/testInclude.h"
 
 ////////////////////////// object struct
 typedef struct _example {
@@ -70,5 +71,8 @@ void* example_new(t_symbol* s, long argc, t_atom* argv) {
 			}
 		}
 	}
+    
+    test((t_object *)x);
+    
 	return (x);
 }

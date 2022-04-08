@@ -15,7 +15,7 @@ include_directories(
 
 set(PROJECT_SRC
     # Add any files you need to compile
-    "example.c"
+    "benchmark.c"
     "../include/testInclude.c"
 )
 
