@@ -1,0 +1,17 @@
+/Users/trompette/Documents/GitHub/max-sdk/build/CMakeFiles/ALL_BUILD.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/CMakeFiles/ZERO_CHECK.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/Treceive/CMakeFiles/Treceive.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/Treceive/CMakeFiles/ALL_BUILD.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/Treceive/CMakeFiles/ZERO_CHECK.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/Tsend/CMakeFiles/Tsend.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/Tsend/CMakeFiles/ALL_BUILD.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/Tsend/CMakeFiles/ZERO_CHECK.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/VuMeter~/CMakeFiles/VuMeter_tilde.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/VuMeter~/CMakeFiles/ALL_BUILD.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/VuMeter~/CMakeFiles/ZERO_CHECK.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/benchmark/CMakeFiles/benchmark.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/benchmark/CMakeFiles/ALL_BUILD.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/benchmark/CMakeFiles/ZERO_CHECK.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/example/CMakeFiles/example.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/example/CMakeFiles/ALL_BUILD.dir
+/Users/trompette/Documents/GitHub/max-sdk/build/source/projects/example/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,14 @@
+Target dependency graph (7 targets)
+Treceive in max-sdk, no dependencies
+Tsend in max-sdk, no dependencies
+VuMeter_tilde in max-sdk, no dependencies
+benchmark in max-sdk, no dependencies
+example in max-sdk, no dependencies
+ZERO_CHECK in max-sdk, no dependencies
+ALL_BUILD in max-sdk, depends on:
+Treceive in max-sdk (explicit)
+Tsend in max-sdk (explicit)
+VuMeter_tilde in max-sdk (explicit)
+benchmark in max-sdk (explicit)
+example in max-sdk (explicit)
+ZERO_CHECK in max-sdk (explicit)

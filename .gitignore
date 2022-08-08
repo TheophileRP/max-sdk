@@ -1,7 +1,3 @@
-build/
-build-*/
-externals/
-extensions
 support
 sysbuild
 tests
