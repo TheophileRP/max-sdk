@@ -54,7 +54,7 @@ void  benchmark_bang(t_benchmark* x){
     
     prevObj = newobject_sprintf(x->patcher, "@maxclass newobj @text \"mapping toto\" @patching_position 10. 10.");
     
-    for(int i = 1; i < 10; i++){
+    for(int i = 1; i < 1000; i++){
         obj = newobject_sprintf(x->patcher, "@maxclass newobj @text \"mapping toto\" @patching_position %d 10.", (deltaX * i + 10));
         
         atom_setobj(cord, prevObj);
